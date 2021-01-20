@@ -1,16 +1,15 @@
-### Hi there 👋
+### Meet Taiwo Owoseni
 
-<!--
-**thayeylolu/thayeylolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... backend development with fastapi, 
+- 🌱 I’m currently learning ... pipelining a machine learning model
+- 👯 I’m looking to collaborate on ... fastapi documentation 
+- 🤔 I’m looking for help with ... Docker
+- 💬 Ask me about ... Anything 
+- 📫 How to reach me: ... [Gmail] (thayehas@gmail.com) 
+- 😄 Pronouns: ... She
+- ⚡ Fun fact: ... I am me
 -->
