@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Gmail] (thayehas@gmail.com) 
 - 😄 Pronouns: ... She
 - ⚡ Fun fact: ... I am me
--->
