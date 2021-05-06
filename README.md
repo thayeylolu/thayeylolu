@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on ... fastapi documentation 
 - 🤔 I’m looking for help with ... Docker
 
-- 📫 How to reach me: ... (thayehas@gmail.com) 
+- 📫 How to reach me: ... thayehas@gmail.com
 - 😄 Pronouns: ... She
 
 ![Taiwo's github stats](https://github-readme-stats.vercel.app/api?username=thayeylolu)
