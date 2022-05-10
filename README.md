@@ -89,7 +89,8 @@ No activity tracked
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-  
+  <br/>
+ 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#2](https://github.com/thayeylolu/swifter/pull/2) in [thayeylolu/swifter](https://github.com/thayeylolu/swifter)
 2. 💪 Opened PR [#2](https://github.com/thayeylolu/swifter/pull/2) in [thayeylolu/swifter](https://github.com/thayeylolu/swifter)
