@@ -1,10 +1,4 @@
  
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/thayeylolu/swifter/pull/2) in [thayeylolu/swifter](https://github.com/thayeylolu/swifter)
-2. 💪 Opened PR [#2](https://github.com/thayeylolu/swifter/pull/2) in [thayeylolu/swifter](https://github.com/thayeylolu/swifter)
-3. 🎉 Merged PR [#1](https://github.com/IbukunGracey/LoanVilla/pull/1) in [IbukunGracey/LoanVilla](https://github.com/IbukunGracey/LoanVilla)
-<!--END_SECTION:activity-->
-
 <!--Colour: #861AF7-->
 
 <!--Typing header To make your own: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
@@ -82,3 +76,8 @@ No activity tracked
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
   
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/thayeylolu/swifter/pull/2) in [thayeylolu/swifter](https://github.com/thayeylolu/swifter)
+2. 💪 Opened PR [#2](https://github.com/thayeylolu/swifter/pull/2) in [thayeylolu/swifter](https://github.com/thayeylolu/swifter)
+3. 🎉 Merged PR [#1](https://github.com/IbukunGracey/LoanVilla/pull/1) in [IbukunGracey/LoanVilla](https://github.com/IbukunGracey/LoanVilla)
+<!--END_SECTION:activity-->
