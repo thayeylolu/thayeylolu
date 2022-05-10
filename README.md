@@ -1,3 +1,5 @@
+ 
+<!--START_SECTION:activity-->
 
 <!--Colour: #861AF7-->
 
@@ -76,6 +78,3 @@ No activity tracked
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
   
- 
-<!--START_SECTION:activity-->
-
