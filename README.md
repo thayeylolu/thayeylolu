@@ -76,5 +76,6 @@ No activity tracked
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
   
-  <!--START_SECTION:activity-->
+ 
+ <!--START_SECTION:activity-->
 
