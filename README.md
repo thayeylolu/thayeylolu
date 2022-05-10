@@ -14,6 +14,20 @@ Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently
     <a href="https://www.linkedin.com/in/taiwo-owoseni-361a45156/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a>
  </p>
 
+## Select projects
+
+<a href="https://github.com/thayeylolu/A-B-testing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=A-B-testing&theme=midnight-purple" />
+</a>
+<a href="https://github.com/thayeylolu/sktime">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=sktime&theme=midnight-purple" />
+</a>
+<a href="https://github.com/thayeylolu/datasist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=datasist&theme=midnight-purple" />
+</a>
+<a href="https://github.com/UBC-MDS/netflixpy_dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBC-MDS&repo=netflixpy_dashboard&theme=midnight-purple" />
+</a>
 
 <!--Tool box section-->
 ## 🧰 Tool box
