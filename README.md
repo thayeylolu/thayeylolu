@@ -17,16 +17,16 @@ Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently
 ## Select projects
 
 <a href="https://github.com/thayeylolu/A-B-testing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=A-B-testing&theme=egyptian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=A-B-testing&theme=egyptian&show_icons=true&icon_color=FFFFFF" />
 </a>
 <a href="https://github.com/thayeylolu/sktime">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=sktime&theme=egyptian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=sktime&theme=egyptian&show_icons=true&icon_color=FFFFFF" />
 </a>
 <a href="https://github.com/thayeylolu/datasist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=datasist&theme=egyptian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=datasist&theme=egyptian&show_icons=true&icon_color=FFFFFF" />
 </a>
 <a href="https://github.com/UBC-MDS/netflixpy_dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBC-MDS&repo=netflixpy_dashboard&theme=egyptian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBC-MDS&repo=netflixpy_dashboard&theme=egyptian&show_icons=true&icon_color=FFFFFF" />
 </a>
 
 <!--Tool box section-->
