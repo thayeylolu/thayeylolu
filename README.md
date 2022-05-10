@@ -77,5 +77,5 @@ No activity tracked
   <br/>
   
  
- <!--START_SECTION:activity-->
+<!--START_SECTION:activity-->
 
