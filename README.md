@@ -37,7 +37,6 @@ Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently
 ![](https://img.shields.io/badge/code-Python-3850F7?logo=python&logoColor=white)
 ![](https://custom-icon-badges.herokuapp.com/badge/code-SQL-3850F7?logo=database&logoColor=white)
 ![](https://img.shields.io/badge/code-R-3850F7?logo=R&logoColor=white)
-![](https://img.shields.io/badge/code-Java-3850F7?logo=java&logoColor=white)
 
 ![](https://img.shields.io/badge/library-PyTorch-3850F7?logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/library-scikit%20learn-3850F7?logo=scikit-learn&logoColor=white)
