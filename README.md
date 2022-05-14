@@ -16,6 +16,9 @@ Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently
 
 ## Select projects
 <!--- --->
+<a href=  https://github.com/thayeylolu/TheCircle4-OpnionMining>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=TheCircle4-OpnionMining&theme=egyptian" />
+ </a>
 <a href="https://github.com/thayeylolu/A-B-testing">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=A-B-testing&theme=egyptian" />
 </a>
@@ -28,6 +31,7 @@ Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently
 <a href="https://github.com/UBC-MDS/netflixpy_dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBC-MDS&repo=netflixpy_dashboard&theme=egyptian" />
 </a>
+
 
 <!--Tool box section-->
 ## 🧰 Tool box
