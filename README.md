@@ -95,7 +95,7 @@ No activity tracked
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission/pull/2) in [thayeylolu/Shopify-Technical-Challenge-Submission](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission)
-2. 💪 Opened PR [#2](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission/pull/2) in [thayeylolu/Shopify-Technical-Challenge-Submission](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission)
-3. 🎉 Merged PR [#1](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission/pull/1) in [thayeylolu/Shopify-Technical-Challenge-Submission](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission)
+1. 🗣 Commented on [#92](https://github.com/data-umbrella/event-transcripts/issues/92) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
+2. 🎉 Merged PR [#2](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission/pull/2) in [thayeylolu/Shopify-Technical-Challenge-Submission](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission)
+3. 💪 Opened PR [#2](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission/pull/2) in [thayeylolu/Shopify-Technical-Challenge-Submission](https://github.com/thayeylolu/Shopify-Technical-Challenge-Submission)
 <!--END_SECTION:activity-->
