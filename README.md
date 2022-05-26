@@ -3,7 +3,7 @@
 
 <!--Typing header To make your own: https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3850F7&lines=Taiwo's+profile:what+she's+up+to" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=3850F7&lines=What+I've+been+up+to+!!" />
 </p>
 
 <!--Welcome section-->
