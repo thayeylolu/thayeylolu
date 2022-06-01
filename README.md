@@ -95,7 +95,7 @@ No activity tracked
   <br/>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/data-umbrella/event-transcripts/pull/117) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
-2. 💪 Opened PR [#116](https://github.com/data-umbrella/event-transcripts/pull/116) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
-3. 🗣 Commented on [#107](https://github.com/data-umbrella/event-transcripts/issues/107) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
+1. 🗣 Commented on [#2112](https://github.com/scipy/scipy/issues/2112) in [scipy/scipy](https://github.com/scipy/scipy)
+2. 💪 Opened PR [#117](https://github.com/data-umbrella/event-transcripts/pull/117) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
+3. 💪 Opened PR [#116](https://github.com/data-umbrella/event-transcripts/pull/116) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
 <!--END_SECTION:activity-->
