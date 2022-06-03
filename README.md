@@ -95,7 +95,7 @@ No activity tracked
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/data-umbrella/event-transcripts/issues/117) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
-2. 🗣 Commented on [#116](https://github.com/data-umbrella/event-transcripts/issues/116) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
-3. 🗣 Commented on [#2112](https://github.com/scipy/scipy/issues/2112) in [scipy/scipy](https://github.com/scipy/scipy)
+1. ❗️ Opened issue [#1](https://github.com/thayeylolu/TheCircle4-OpnionMining/issues/1) in [thayeylolu/TheCircle4-OpnionMining](https://github.com/thayeylolu/TheCircle4-OpnionMining)
+2. 🗣 Commented on [#117](https://github.com/data-umbrella/event-transcripts/issues/117) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
+3. 🗣 Commented on [#116](https://github.com/data-umbrella/event-transcripts/issues/116) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
 <!--END_SECTION:activity-->
