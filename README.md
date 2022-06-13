@@ -96,6 +96,6 @@ No activity tracked
  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#92](https://github.com/data-umbrella/event-transcripts/issues/92) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
-2. 🗣 Commented on [#117](https://github.com/data-umbrella/event-transcripts/issues/117) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
-3. 🗣 Commented on [#3](https://github.com/thayeylolu/TheCircle4-OpnionMining/issues/3) in [thayeylolu/TheCircle4-OpnionMining](https://github.com/thayeylolu/TheCircle4-OpnionMining)
+2. 💪 Opened PR [#1](https://github.com/thayeylolu/event-transcripts/pull/1) in [thayeylolu/event-transcripts](https://github.com/thayeylolu/event-transcripts)
+3. 🗣 Commented on [#92](https://github.com/data-umbrella/event-transcripts/issues/92) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
 <!--END_SECTION:activity-->
