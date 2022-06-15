@@ -95,7 +95,7 @@ No activity tracked
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/data-umbrella/event-transcripts/issues/92) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
-2. 💪 Opened PR [#124](https://github.com/data-umbrella/event-transcripts/pull/124) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
+1. 🗣 Commented on [#124](https://github.com/data-umbrella/event-transcripts/issues/124) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
+2. 🗣 Commented on [#124](https://github.com/data-umbrella/event-transcripts/issues/124) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
 3. 🗣 Commented on [#92](https://github.com/data-umbrella/event-transcripts/issues/92) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
 <!--END_SECTION:activity-->
