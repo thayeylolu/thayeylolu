@@ -95,7 +95,7 @@ No activity tracked
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/pymc-devs/pymc-data-umbrella/issues/136) in [pymc-devs/pymc-data-umbrella](https://github.com/pymc-devs/pymc-data-umbrella)
-2. 💪 Opened PR [#136](https://github.com/pymc-devs/pymc-data-umbrella/pull/136) in [pymc-devs/pymc-data-umbrella](https://github.com/pymc-devs/pymc-data-umbrella)
-3. 🗣 Commented on [#92](https://github.com/data-umbrella/event-transcripts/issues/92) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
+1. 💪 Opened PR [#133](https://github.com/data-umbrella/event-transcripts/pull/133) in [data-umbrella/event-transcripts](https://github.com/data-umbrella/event-transcripts)
+2. 🗣 Commented on [#136](https://github.com/pymc-devs/pymc-data-umbrella/issues/136) in [pymc-devs/pymc-data-umbrella](https://github.com/pymc-devs/pymc-data-umbrella)
+3. 💪 Opened PR [#136](https://github.com/pymc-devs/pymc-data-umbrella/pull/136) in [pymc-devs/pymc-data-umbrella](https://github.com/pymc-devs/pymc-data-umbrella)
 <!--END_SECTION:activity-->
