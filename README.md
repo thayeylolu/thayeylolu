@@ -95,7 +95,7 @@ No activity tracked
   <br/>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/thayeylolu/project31/pull/2) in [thayeylolu/project31](https://github.com/thayeylolu/project31)
-2. 🎉 Merged PR [#1](https://github.com/thayeylolu/project31/pull/1) in [thayeylolu/project31](https://github.com/thayeylolu/project31)
-3. 💪 Opened PR [#1](https://github.com/thayeylolu/project31/pull/1) in [thayeylolu/project31](https://github.com/thayeylolu/project31)
+1. 💪 Opened PR [#4](https://github.com/thayeylolu/project31/pull/4) in [thayeylolu/project31](https://github.com/thayeylolu/project31)
+2. 🎉 Merged PR [#2](https://github.com/thayeylolu/project31/pull/2) in [thayeylolu/project31](https://github.com/thayeylolu/project31)
+3. 🎉 Merged PR [#1](https://github.com/thayeylolu/project31/pull/1) in [thayeylolu/project31](https://github.com/thayeylolu/project31)
 <!--END_SECTION:activity-->
