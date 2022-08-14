@@ -8,7 +8,7 @@
 
 <!--Welcome section-->
 ## 👋🏽 Welcome 
-Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently a graduate student in the Master's of Data Science program at the University of British Columbia.  I'm passionate about interpretable models, AI Ethics and machine Learning.
+Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently a graduate student in the Master's of Data Science program at the University of British Columbia.  I'm passionate about interpretable models and machine Learning.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/taiwo-owoseni-361a45156/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a>
