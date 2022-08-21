@@ -17,7 +17,7 @@ Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently
 ## Select projects
 <!--- --->
 <a href= "https://github.com/thayeylolu/Scheduled-Earth-Quake-Visualization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=/Scheduled-Earth-Quake-Visualization&theme=egyptian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=Scheduled-Earth-Quake-Visualization&theme=egyptian" />
  </a>
 <a href="https://github.com/thayeylolu/Feature-Analysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=Feature-Analysis&theme=egyptian" />
