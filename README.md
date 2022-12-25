@@ -20,7 +20,7 @@ Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm currently
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=Scheduled-Earth-Quake-Visualization&theme=egyptian" />
  </a>
 <a href="https://github.com/thayeylolu/cyberbullying">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=cyberbullyings&theme=egyptian" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=thayeylolu&repo=cyberbullying&theme=egyptian" />
 </a>
 <a href="https://github.com/UBC-MDS/netflixpy_dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UBC-MDS&repo=netflixpy_dashboard&theme=egyptian" />
