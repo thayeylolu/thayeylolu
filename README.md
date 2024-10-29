@@ -8,7 +8,7 @@
 
 <!--Welcome section-->
 ## 👋🏽 Welcome 
-Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm  a Data Specialist with over 3 years of expereince working in cross functional teams as a Business Intelligence Analyst, Data Analyst and Data Scientist.  I'm passionate about interpretable models and machine Learning.
+Hi there, I'm [Taiwo Owoseni](https://taiwoowoseni.netlify.app/).  I'm  a Data Specialist with over 3 years of experience working in cross-functional teams as a Business Intelligence Analyst, Data Analyst and Data Scientist.  I'm passionate about data engineering and machine Learning.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/taiwo-owoseni-361a45156/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white"></a>
